@@ -1,0 +1,11 @@
+DEFINED_PHASES=install
+DESCRIPTION=A Gentoo flavored version of the Agnoster ZSH Theme.
+EAPI=7
+HOMEPAGE=https://github.com/r7l/agnoster-gentoo-zsh-theme
+KEYWORDS=~amd64 ~arm64
+LICENSE=ZSH
+RDEPEND=app-shells/zsh app-shells/oh-my-zsh
+RESTRICT=primaryuri
+SLOT=0
+SRC_URI=https://github.com/r7l/agnoster-gentoo-zsh-theme/archive/edc9f70a3c261f1b69761eeb4c50a109365bb9e1.tar.gz -> agnoster-gentoo-zsh-theme-20200419.tar.gz
+_md5_=be2c9b4bea5863f1ac88aacd3bf98ca4
