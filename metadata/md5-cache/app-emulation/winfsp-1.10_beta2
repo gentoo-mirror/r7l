@@ -1,0 +1,10 @@
+DEFINED_PHASES=install prepare unpack
+DEPEND=app-cdr/cdrtools
+DESCRIPTION=WinFsp · Windows File System Proxy.
+EAPI=7
+HOMEPAGE=https://github.com/billziss-gh/winfsp
+KEYWORDS=~amd64
+LICENSE=GPL-2
+SLOT=0
+SRC_URI=https://github.com/billziss-gh/winfsp/releases/download/v1.10B2/winfsp-1.10.21164.msi
+_md5_=21a1f43c191d26a7eea2bd73ef3b0aa9

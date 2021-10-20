@@ -1,0 +1,10 @@
+DEFINED_PHASES=install prepare unpack
+DEPEND=app-cdr/cdrtools
+DESCRIPTION=VirtIO drivers for Windows virtual machines running on KVM based on upstream content. They may contain experimental drivers.
+EAPI=7
+HOMEPAGE=https://docs.fedoraproject.org/en-US/quick-docs/creating-windows-virtual-machines-using-virtio-drivers/index.html
+KEYWORDS=~amd64
+LICENSE=GPL-2
+SLOT=0
+SRC_URI=https://fedorapeople.org/groups/virt/virtio-win/direct-downloads/upstream-virtio/virtio-win10-prewhql-0.1-161.zip
+_md5_=c16445cde6ff4b009c20f5710d55311c
