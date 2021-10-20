@@ -8,6 +8,7 @@ app-admin/drush 8.3.0: The command line interface for Drupal
 app-admin/sshguard 2.4.2: protects hosts from brute force attacks against ssh
 app-shells/agnoster-gentoo-zsh-theme 20200419: A Gentoo flavored version of the Agnoster ZSH Theme.
 app-shells/oh-my-zsh 20210925: A ready-to-use zsh configuration with plugins.
+app-text/obsidian 0.12.19: https://github.com/obsidianmd/obsidian-releases
 dev-go/go-bindata 1.0.0: A small utility which generates Go code from any file
 dev-php/pecl-jsmin 3.0.0: PHP extension to compress JS files
 dev-php/pecl-snappy 0.1.9: PHP wrapper for snappy
