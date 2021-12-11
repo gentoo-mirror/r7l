@@ -21,7 +21,7 @@ dev-python/spotipy 2.7.1 2.18.0: A thin Python-based library for the Spotify Web
 media-libs/libspotify 12.1.103: SDK/C language API for Spotify
 net-mail/mailhog 1.0.1 9999: MailHog is an email testing tool for developers
 net-misc/freetube-bin 0.14.0 0.15.0 0.15.1: https://github.com/FreeTubeApp/FreeTube
-net-proxy/traefik 2.5.3 2.5.4: A modern HTTP reverse proxy and load balancer made to deploy microservices
+net-proxy/traefik 2.5.3 2.5.4 2.5.5: A modern HTTP reverse proxy and load balancer made to deploy microservices
 net-proxy/traefik-migration-tool 0.13.4: A migration tool from Traefik v1 to Traefik v2.
 www-apps/baikal 0.8.0: Lightweight CalDAV+CardDAV server
 www-apps/grafana 8.3.1 8.3.2: The tool for beautiful monitoring and metric analytics & dashboards
