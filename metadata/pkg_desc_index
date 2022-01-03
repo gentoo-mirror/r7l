@@ -12,7 +12,7 @@ app-emulation/virtio-win-prewhql 0.1.161: VirtIO drivers for Windows virtual mac
 app-emulation/winfsp 1.9 1.10_beta4: WinFsp · Windows File System Proxy.
 app-shells/agnoster-gentoo-zsh-theme 20200419: A Gentoo flavored version of the Agnoster ZSH Theme.
 app-shells/oh-my-zsh 20210925: A ready-to-use zsh configuration with plugins.
-app-text/obsidian 0.12.19: https://github.com/obsidianmd/obsidian-releases
+app-text/obsidian 0.13.14: Obsidian is a powerful knowledge base on top of a local folder of plain text Markdown files.
 dev-go/go-bindata 1.0.0: A small utility which generates Go code from any file
 dev-php/pecl-jsmin 3.0.0: PHP extension to compress JS files
 dev-php/pecl-snappy 0.1.9: PHP wrapper for snappy
