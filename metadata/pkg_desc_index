@@ -12,7 +12,7 @@ app-emulation/virtio-win-prewhql 0.1.161: VirtIO drivers for Windows virtual mac
 app-emulation/winfsp 1.9 1.10_beta4: WinFsp · Windows File System Proxy.
 app-shells/agnoster-gentoo-zsh-theme 20200419: A Gentoo flavored version of the Agnoster ZSH Theme.
 app-shells/oh-my-zsh 20210925: A ready-to-use zsh configuration with plugins.
-app-text/obsidian 0.13.14: Obsidian is a powerful knowledge base on top of a local folder of plain text Markdown files.
+app-text/obsidian 0.13.14 0.13.19: Obsidian is a powerful knowledge base on top of a local folder of plain text Markdown files.
 dev-go/go-bindata 1.0.0: A small utility which generates Go code from any file
 dev-php/pecl-jsmin 3.0.0: PHP extension to compress JS files
 dev-php/pecl-snappy 0.1.9: PHP wrapper for snappy
@@ -25,6 +25,6 @@ net-proxy/traefik 2.5.3 2.5.4 2.5.5 2.5.6: A modern HTTP reverse proxy and load 
 net-proxy/traefik-migration-tool 0.13.4: A migration tool from Traefik v1 to Traefik v2.
 www-apps/baikal 0.8.0: Lightweight CalDAV+CardDAV server
 www-apps/grafana 8.3.1 8.3.2 8.3.3: The tool for beautiful monitoring and metric analytics & dashboards
-www-apps/linkace 1.7.0: LinkAce is a bookmark archive.
+www-apps/linkace 1.7.0 1.8.1: LinkAce is a bookmark archive.
 www-apps/lychee 4.3.4 4.3.6: A great looking and easy-to-use photo-management-system.
 www-apps/mytinytodo 1.6.7 1.6.8: Simple way to manage your todo list in AJAX style.
