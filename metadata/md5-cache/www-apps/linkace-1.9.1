@@ -1,0 +1,16 @@
+BDEPEND=>=net-libs/nodejs-16
+DEFINED_PHASES=install postinst prepare prerm pretend setup
+DEPEND=dev-php/composer app-admin/webapp-config
+DESCRIPTION=LinkAce is a bookmark archive.
+EAPI=7
+HOMEPAGE=https://github.com/Kovah/LinkAce
+INHERIT=webapp
+IUSE=+mysql sqlite vhosts
+KEYWORDS=~amd64
+LICENSE=MIT
+RDEPEND=>=dev-lang/php-7.4[cli,json,fileinfo,pdo] mysql? ( virtual/mysql ) sqlite? ( dev-db/sqlite ) virtual/httpd-php app-admin/webapp-config
+REQUIRED_USE=|| ( mysql sqlite )
+SLOT=1.9.1
+SRC_URI=https://github.com/Kovah/LinkAce/archive/v1.9.1.tar.gz -> linkace-1.9.1.tar.gz
+_eclasses_=webapp	60f2eb31dec733d05e8114cc078ebc33
+_md5_=7034ecee18cd1685a2e24d6837da4d7a
