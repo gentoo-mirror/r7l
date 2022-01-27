@@ -6,5 +6,5 @@ HOMEPAGE=https://github.com/billziss-gh/winfsp
 KEYWORDS=~amd64
 LICENSE=GPL-2
 SLOT=0
-SRC_URI=https://github.com/billziss-gh/winfsp/releases/download/v1.10B4/winfsp-1.10.21330.msi
-_md5_=f1d3ef581563e6c9396c75b4c10ae930
+SRC_URI=https://github.com/billziss-gh/winfsp/releases/download/v1.10/winfsp-1.10.22006.msi
+_md5_=5af0c14271ed72fb2e6f17c65ea6e8aa
