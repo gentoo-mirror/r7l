@@ -11,5 +11,5 @@ RDEPEND=>=dev-lang/php-7[cli,json,fileinfo,pdo] mysql? ( virtual/mysql ) sqlite?
 REQUIRED_USE=|| ( mysql sqlite )
 SLOT=1.7.0
 SRC_URI=https://github.com/Kovah/LinkAce/archive/v1.7.0.tar.gz -> linkace-1.7.0.tar.gz
-_eclasses_=webapp	cbf94d7383f416c5ead4634aa89916a9
+_eclasses_=webapp	d872f28d7595b70dd46545199ef35fb0
 _md5_=4acf7b32ece5b2d21516a6e57a0f8b0e
