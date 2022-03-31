@@ -7,5 +7,5 @@ LICENSE=ZSH
 RDEPEND=app-shells/zsh
 RESTRICT=primaryuri
 SLOT=0
-SRC_URI=https://github.com/ohmyzsh/ohmyzsh/archive/dbadfa0810c0be346b98c02cc802c33fa43bee11.tar.gz -> oh-my-zsh-20220326.tar.gz
-_md5_=a9ac575ceab69fa9fbd1d0f6138cbaf6
+SRC_URI=https://github.com/ohmyzsh/ohmyzsh/archive/53863e7b3ff0c2e2816e90dab3d870adebdf49c7.tar.gz -> oh-my-zsh-20220331.tar.gz
+_md5_=a472d1681ef65ad642344d79fc4dd188
