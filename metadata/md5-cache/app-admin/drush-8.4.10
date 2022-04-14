@@ -1,11 +1,11 @@
 DEFINED_PHASES=install unpack
 DEPEND=dev-lang/php:*
 DESCRIPTION=The command line interface for Drupal
-EAPI=6
+EAPI=8
 HOMEPAGE=https://drush.org/
 KEYWORDS=~amd64 ~arm ~arm64 ~x86
 LICENSE=MIT
 RDEPEND=dev-lang/php:*
 SLOT=0
 SRC_URI=https://github.com/drush-ops/drush/releases/download/8.4.10/drush.phar -> drush-8.4.10.phar
-_md5_=b9327e6e23e59d5a0a94fbe90bdb8688
+_md5_=2d74c5ab919e0069d2e79d716b6d20b8
