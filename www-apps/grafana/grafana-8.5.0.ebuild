@@ -21,16 +21,14 @@ RDEPEND="acct-group/grafana
 	acct-user/grafana
 	!www-apps/grafana-bin"
 DEPEND="${RDEPEND}
-	>=net-libs/nodejs-14.0.0[icu]
-	<=net-libs/nodejs-15.0.0[icu]
+	>=net-libs/nodejs-16.0.0[icu]
+	<=net-libs/nodejs-17.0.0[icu]
 	sys-apps/yarn"
 
 QA_PRESTRIPPED="usr/bin/grafana-*"
 
 src_compile() {
-	make deps-js || die
-	LDFLAGS="" make gen-go || die
-	NODE_OPTIONS="--max-old-space-size=4096" LDFLAGS="" make build || die
+	NODE_OPTIONS="--max-old-space-size=5120" LDFLAGS="" make all || die
 }
 
 src_install() {
