@@ -18,7 +18,7 @@ app-shells/oh-my-zsh 20220331: A ready-to-use zsh configuration with plugins.
 app-text/obsidian 0.14.6 0.14.15: Obsidian is a powerful knowledge base on top of a local folder of plain text Markdown files.
 dev-go/go-bindata 1.0.0: A small utility which generates Go code from any file
 dev-php/pecl-jsmin 3.0.0: PHP extension to compress JS files
-dev-php/pecl-snappy 0.1.9: PHP wrapper for snappy
+dev-php/pecl-snappy 0.1.9 0.2.1: PHP wrapper for snappy
 dev-python/gitea-api 1.16.5 1.16.6 1.16.7 1.16.8: Gitea API wrapper for Python
 dev-python/passpy 1.0.2: passpy -- ZX2C4's pass compatible library and cli
 net-mail/mailhog 1.0.1 9999: MailHog is an email testing tool for developers
@@ -29,7 +29,7 @@ net-proxy/traefik-migration-tool 0.13.4: A migration tool from Traefik v1 to Tra
 sys-power/power-profiles-daemon 0.11.1: Makes power profiles handling available over D-Bus.
 www-apps/baikal 0.9.2: Lightweight CalDAV+CardDAV server
 www-apps/docker-registry-ui 2.2.0 2.2.1: Docker Registry User Interface.
-www-apps/grafana 8.5.2 8.5.3 8.5.5 8.5.6: The tool for beautiful monitoring and metric analytics & dashboards
+www-apps/grafana 8.5.2 8.5.3 8.5.5 8.5.6 9.0.2: The tool for beautiful monitoring and metric analytics & dashboards
 www-apps/libreddit 0.22.9: Alternative private front-end to Reddit
 www-apps/linkace 1.10.0 1.10.2: LinkAce is a bookmark archive.
 www-apps/lychee 4.3.4 4.3.6 4.4.0: A great looking and easy-to-use photo-management-system.
