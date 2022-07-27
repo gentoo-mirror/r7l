@@ -14,7 +14,7 @@ app-emulation/virtio-win 0.1.204.1 0.1.208.1 0.1.215.1: VirtIO drivers for Windo
 app-emulation/virtio-win-prewhql 0.1.161: VirtIO drivers for Windows virtual machines running on KVM based on upstream content. They may contain experimental drivers.
 app-emulation/winfsp 1.10: WinFsp · Windows File System Proxy.
 app-shells/agnoster-gentoo-zsh-theme 20200419: A Gentoo flavored version of the Agnoster ZSH Theme.
-app-shells/oh-my-zsh 20220331: A ready-to-use zsh configuration with plugins.
+app-shells/oh-my-zsh 20220727: A ready-to-use zsh configuration with plugins.
 app-text/obsidian 0.15.6 0.15.8: Obsidian is a powerful knowledge base on top of a local folder of plain text Markdown files.
 dev-go/go-bindata 1.0.0: A small utility which generates Go code from any file
 dev-php/pecl-jsmin 3.0.0: PHP extension to compress JS files
