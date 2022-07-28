@@ -15,14 +15,14 @@ inherit go-module systemd
 
 LICENSE="Apache-2.0"
 SLOT="0"
-KEYWORDS="~amd64"
+KEYWORDS="~amd64 ~arm64"
 IUSE="systemd"
 
 RDEPEND="acct-group/grafana
 	acct-user/grafana
 	!www-apps/grafana-bin"
 DEPEND="${RDEPEND}
-	net-libs/nodejs-16*[icu]
+	=net-libs/nodejs-16*[icu]
 	sys-apps/yarn"
 
 QA_PRESTRIPPED="usr/bin/grafana-*"
