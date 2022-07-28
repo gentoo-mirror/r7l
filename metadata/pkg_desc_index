@@ -4,6 +4,7 @@ acct-group/mailhog 0: Group net-mail/mailhog
 acct-group/traefik 0: Group for net-proxy/traefik
 acct-user/grafana 0: Grafana program user
 acct-user/libreddit 0: User for www-apps/libreddit
+acct-user/loki 0-r1: Loki program user
 acct-user/mailhog 0: User for net-mail/mailhog
 acct-user/traefik 0: User for net-proxy/traefik
 app-admin/drush 8.4.11: The command line interface for Drupal
