@@ -31,7 +31,7 @@ net-proxy/traefik-migration-tool 0.13.4: A migration tool from Traefik v1 to Tra
 sys-power/power-profiles-daemon 0.11.1 0.12: Makes power profiles handling available over D-Bus.
 www-apps/baikal 0.9.2: Lightweight CalDAV+CardDAV server
 www-apps/docker-registry-ui 2.2.0 2.2.1: Docker Registry User Interface.
-www-apps/grafana 9.0.5: The open-source platform for monitoring and observability
+www-apps/grafana 9.0.5 9.0.6: The open-source platform for monitoring and observability
 www-apps/libreddit 0.22.9: Alternative private front-end to Reddit
 www-apps/linkace 1.10.0 1.10.2: LinkAce is a bookmark archive.
 www-apps/lychee 4.3.4 4.3.6 4.4.0: A great looking and easy-to-use photo-management-system.
