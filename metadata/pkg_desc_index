@@ -14,7 +14,7 @@ app-admin/trivy 0.31.2 0.31.3: Scanner for vulnerabilities in container images, 
 app-emulation/looking-glass 1_beta5: A low latency KVM FrameRelay implementation for guests with VGA PCI Passthrough
 app-emulation/virtio-win 0.1.204.1 0.1.208.1 0.1.215.1: VirtIO drivers for Windows virtual machines running on KVM
 app-emulation/virtio-win-prewhql 0.1.161: VirtIO drivers for Windows virtual machines running on KVM based on upstream content. They may contain experimental drivers.
-app-emulation/winfsp 1.10: WinFsp · Windows File System Proxy.
+app-emulation/winfsp 1.11: WinFsp · Windows File System Proxy - FUSE for Windows
 app-shells/agnoster-gentoo-zsh-theme 20200419: A Gentoo flavored version of the Agnoster ZSH Theme.
 app-shells/oh-my-zsh 20220727: A ready-to-use zsh configuration with plugins.
 app-text/obsidian 0.15.6 0.15.8 0.15.9: Obsidian is a powerful knowledge base on top of a local folder of plain text Markdown files.
@@ -31,7 +31,7 @@ net-proxy/traefik-migration-tool 0.13.4: A migration tool from Traefik v1 to Tra
 sys-power/power-profiles-daemon 0.11.1 0.12: Makes power profiles handling available over D-Bus.
 www-apps/baikal 0.9.2: Lightweight CalDAV+CardDAV server
 www-apps/docker-registry-ui 2.2.0 2.2.1: Docker Registry User Interface.
-www-apps/grafana 9.0.5 9.0.6 9.1.1: The open-source platform for monitoring and observability
+www-apps/grafana 9.0.5 9.0.6 9.1.1 9.1.2: The open-source platform for monitoring and observability
 www-apps/libreddit 0.22.9: Alternative private front-end to Reddit
 www-apps/linkace 1.10.0 1.10.2 1.10.3: LinkAce is a bookmark archive.
 www-apps/lychee 4.3.4 4.3.6 4.4.0 4.5.2: A great looking and easy-to-use photo-management-system.
