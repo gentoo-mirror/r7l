@@ -25,7 +25,7 @@ dev-python/gitea-api 1.16.5 1.16.6 1.16.7 1.16.8 1.16.9: Gitea API wrapper for P
 dev-python/passpy 1.0.2: passpy -- ZX2C4's pass compatible library and cli
 net-mail/mailhog 1.0.1 9999: MailHog is an email testing tool for developers
 net-misc/freetube-bin 0.16.0 0.17.0 0.17.1: An Open Source YouTube app for privacy
-net-proxy/traefik 2.7.1 2.8.0 2.8.1 2.8.3: A modern HTTP reverse proxy and load balancer made to deploy microservices
+net-proxy/traefik 2.7.1 2.8.0 2.8.1 2.8.3 2.8.4: A modern HTTP reverse proxy and load balancer made to deploy microservices
 net-proxy/traefik-certs-dumper 2.8.1: Dump ACME data from Traefik to certificates
 net-proxy/traefik-migration-tool 0.13.4: A migration tool from Traefik v1 to Traefik v2.
 sys-power/power-profiles-daemon 0.11.1 0.12: Makes power profiles handling available over D-Bus.
