@@ -18,9 +18,11 @@ app-emulation/winfsp 1.11: WinFsp · Windows File System Proxy - FUSE for Window
 app-shells/agnoster-gentoo-zsh-theme 20200419: A Gentoo flavored version of the Agnoster ZSH Theme.
 app-shells/oh-my-zsh 20220727: A ready-to-use zsh configuration with plugins.
 app-text/obsidian 0.15.6 0.15.8 0.15.9: Obsidian is a powerful knowledge base on top of a local folder of plain text Markdown files.
+dev-db/phpredisadmin 1.17.3: Simple web interface to manage Redis databases.
 dev-go/go-bindata 1.0.0: A small utility which generates Go code from any file
 dev-php/pecl-jsmin 3.0.0: PHP extension to compress JS files
 dev-php/pecl-snappy 0.1.9 0.2.1: PHP wrapper for snappy
+dev-php/predis 2.0.2: A flexible and feature-complete Redis client for PHP.
 dev-python/gitea-api 1.16.5 1.16.6 1.16.7 1.16.8 1.16.9 1.17.1: Gitea API wrapper for Python
 dev-python/passpy 1.0.2: passpy -- ZX2C4's pass compatible library and cli
 net-mail/mailhog 1.0.1 9999: MailHog is an email testing tool for developers

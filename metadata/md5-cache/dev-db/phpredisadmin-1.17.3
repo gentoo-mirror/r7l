@@ -1,0 +1,14 @@
+DEFINED_PHASES=install postinst prerm setup
+DEPEND=|| ( virtual/httpd-cgi virtual/httpd-fastcgi ) app-admin/webapp-config
+DESCRIPTION=Simple web interface to manage Redis databases.
+EAPI=8
+HOMEPAGE=https://github.com/erikdubbelboer/phpRedisAdmin
+INHERIT=webapp
+IUSE=vhosts
+KEYWORDS=~amd64 ~arm ~arm64 ~x86
+LICENSE=CC-BY-SA-3.0
+RDEPEND=dev-db/redis dev-lang/php dev-php/predis virtual/httpd-php:* app-admin/webapp-config
+SLOT=1.17.3
+SRC_URI=https://github.com/erikdubbelboer/phpRedisAdmin/archive/refs/tags/v1.17.3.tar.gz -> phpredisadmin-1.17.3.tar.gz
+_eclasses_=webapp	d872f28d7595b70dd46545199ef35fb0
+_md5_=c88e31d9d370ae3195cfae639925d999
