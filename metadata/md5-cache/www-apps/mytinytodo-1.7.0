@@ -10,7 +10,7 @@ LICENSE=GPL-2
 RDEPEND=>=dev-lang/php-7 mysql? ( virtual/mysql ) sqlite? ( dev-db/sqlite ) virtual/httpd-php app-admin/webapp-config
 REQUIRED_USE=|| ( mysql sqlite )
 RESTRICT=primaryuri
-SLOT=1.6.9
-SRC_URI=https://github.com/maxpozdeev/mytinytodo/releases/download/v1.6.9/mytinytodo-v1.6.9.zip
+SLOT=1.7.0
+SRC_URI=https://github.com/maxpozdeev/mytinytodo/releases/download/v1.7.0/mytinytodo-v1.7.0.tar.gz
 _eclasses_=webapp	67df5bab481d0b9428f9ab7b3de690e4
-_md5_=1360a1e274ab08207600348b97026df7
+_md5_=37dc6528776f515e115db552802b7272
