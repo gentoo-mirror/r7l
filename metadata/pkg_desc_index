@@ -23,6 +23,7 @@ dev-go/go-bindata 1.0.0: A small utility which generates Go code from any file
 dev-php/pecl-jsmin 3.0.0: PHP extension to compress JS files
 dev-php/pecl-snappy 0.1.9 0.2.1: PHP wrapper for snappy
 dev-php/predis 2.0.2: A flexible and feature-complete Redis client for PHP.
+dev-python/dreg-client 1.2.0: API client for Docker Registries
 dev-python/gitea-api 1.17.2 1.17.3: Gitea API wrapper for Python
 dev-python/passpy 1.0.2: passpy -- ZX2C4's pass compatible library and cli
 net-mail/mailhog 1.0.1 9999: MailHog is an email testing tool for developers
