@@ -39,4 +39,4 @@ www-apps/libreddit 0.22.9 0.23.1: Alternative private front-end to Reddit
 www-apps/linkace 1.10.0 1.10.2 1.10.3 1.10.4: LinkAce is a bookmark archive.
 www-apps/lychee 4.3.4 4.3.6 4.4.0 4.5.2: A great looking and easy-to-use photo-management-system.
 www-apps/matomo 4.12.3: Matomo is the leading Free/Libre open analytics platform.
-www-apps/mytinytodo 1.6.10 1.7.0: Simple way to manage your todo list in AJAX style.
+www-apps/mytinytodo 1.7.0 1.7.2: Simple way to manage your todo list in AJAX style.
