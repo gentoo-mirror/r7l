@@ -14,7 +14,7 @@ app-admin/trivy 0.32.1 0.33.0: Scanner for vulnerabilities in container images, 
 app-emulation/looking-glass 1_beta5: A low latency KVM FrameRelay implementation for guests with VGA PCI Passthrough
 app-emulation/virtio-win 0.1.215.1 0.1.221.1: VirtIO drivers for Windows virtual machines running on KVM
 app-emulation/virtio-win-prewhql 0.1.161: VirtIO drivers for Windows virtual machines running on KVM based on upstream content. They may contain experimental drivers.
-app-emulation/winfsp 1.11: WinFsp · Windows File System Proxy - FUSE for Windows
+app-emulation/winfsp 1.11 1.12: WinFsp · Windows File System Proxy - FUSE for Windows
 app-shells/agnoster-gentoo-zsh-theme 20200419: A Gentoo flavored version of the Agnoster ZSH Theme.
 app-shells/oh-my-zsh 20220727: A ready-to-use zsh configuration with plugins.
 app-text/obsidian 0.15.6 0.15.8 0.15.9: Obsidian is a powerful knowledge base on top of a local folder of plain text Markdown files.
