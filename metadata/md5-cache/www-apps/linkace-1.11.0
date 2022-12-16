@@ -8,9 +8,9 @@ INHERIT=webapp
 IUSE=+mysql sqlite vhosts
 KEYWORDS=~amd64
 LICENSE=MIT
-RDEPEND=>=dev-lang/php-7.4[cli,json,fileinfo,pdo] mysql? ( virtual/mysql ) sqlite? ( dev-db/sqlite ) virtual/httpd-php app-admin/webapp-config
+RDEPEND=>=dev-lang/php-8.0[cli,fileinfo,pdo] mysql? ( virtual/mysql ) sqlite? ( dev-db/sqlite ) virtual/httpd-php app-admin/webapp-config
 REQUIRED_USE=|| ( mysql sqlite )
-SLOT=1.10.4
-SRC_URI=https://github.com/Kovah/LinkAce/archive/v1.10.4.tar.gz -> linkace-1.10.4.tar.gz
+SLOT=1.11.0
+SRC_URI=https://github.com/Kovah/LinkAce/archive/v1.11.0.tar.gz -> linkace-1.11.0.tar.gz
 _eclasses_=webapp	67df5bab481d0b9428f9ab7b3de690e4
-_md5_=7034ecee18cd1685a2e24d6837da4d7a
+_md5_=d49143faaac3d565be04bac0096160e8
