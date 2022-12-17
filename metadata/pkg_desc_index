@@ -7,6 +7,7 @@ acct-user/libreddit 0: User for www-apps/libreddit
 acct-user/loki 0-r1: Loki program user
 acct-user/mailhog 0: User for net-mail/mailhog
 acct-user/traefik 0: User for net-proxy/traefik
+app-admin/cert-chain-resolver 1.0.4: SSL certificate chain resolver
 app-admin/drush 8.4.11: The command line interface for Drupal
 app-admin/loki 2.6.1 2.7.0: Like Prometheus, but for logs.
 app-admin/sshguard 2.4.2: protects hosts from brute force attacks against ssh
