@@ -21,8 +21,6 @@ app-shells/oh-my-zsh 20220727: A ready-to-use zsh configuration with plugins.
 app-text/obsidian 1.1.8 1.1.9: A second brain, for you, forever.
 dev-db/phpredisadmin 1.17.3 1.18.0: Simple web interface to manage Redis databases.
 dev-go/go-bindata 1.0.0: A small utility which generates Go code from any file
-dev-php/pecl-jsmin 3.0.0: PHP extension to compress JS files
-dev-php/pecl-snappy 0.1.9 0.2.1: PHP wrapper for snappy
 dev-php/predis 2.0.2 2.0.3: A flexible and feature-complete Redis client for PHP.
 dev-python/dreg-client 1.2.0: API client for Docker Registries
 dev-python/gitea-api 1.17.3: Gitea API wrapper for Python
