@@ -1,16 +1,15 @@
 DEFINED_PHASES=install postinst prepare prerm setup
 DEPEND=app-arch/unzip app-admin/webapp-config
 DESCRIPTION=Simple way to manage your todo list in AJAX style.
-EAPI=7
+EAPI=8
 HOMEPAGE=https://www.mytinytodo.net
 INHERIT=webapp
-IUSE=+mysql sqlite vhosts
+IUSE=+mysql sqlite notifications custom-css vhosts
 KEYWORDS=~amd64 ~arm ~ppc64
 LICENSE=GPL-2
 RDEPEND=>=dev-lang/php-7 mysql? ( virtual/mysql ) sqlite? ( dev-db/sqlite ) virtual/httpd-php app-admin/webapp-config
 REQUIRED_USE=|| ( mysql sqlite )
-RESTRICT=primaryuri
 SLOT=1.7.3
 SRC_URI=https://github.com/maxpozdeev/mytinytodo/releases/download/v1.7.3/mytinytodo-v1.7.3.tar.gz
 _eclasses_=webapp	67df5bab481d0b9428f9ab7b3de690e4
-_md5_=f5faec46c2c6b598c6216dae99152f11
+_md5_=579212b4c68c3262ec05deeb611a62f1

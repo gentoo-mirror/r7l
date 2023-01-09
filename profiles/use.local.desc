@@ -6,3 +6,5 @@ app-admin/loki:fluent-bit - Build the fluent-bit plugin to publish from app-admi
 app-admin/loki:promtail - Build the promtail log gathering agent
 app-admin/loki:server - Build the loki server
 app-admin/loki:tools - Build the loki tools logcli and loki-canary
+www-apps/mytinytodo:custom-css - Install CustomCSS extension
+www-apps/mytinytodo:notifications - Install Notifications extension
