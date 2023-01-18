@@ -13,7 +13,7 @@ app-admin/loki 2.6.1 2.7.0 2.7.1: Like Prometheus, but for logs.
 app-admin/sshguard 2.4.2: protects hosts from brute force attacks against ssh
 app-admin/trivy 0.36.0 0.36.1: Scanner for vulnerabilities in container images, file systems, and Git repositories, as well as for configuration issues and hard-coded secrets
 app-emulation/looking-glass 1_beta5 1_beta6_rc1: A low latency KVM FrameRelay implementation for guests with VGA PCI Passthrough
-app-emulation/virtio-win 0.1.215.1 0.1.221.1 0.1.225.2: VirtIO drivers for Windows virtual machines running on KVM
+app-emulation/virtio-win 0.1.225.2 0.1.229.1: VirtIO drivers for Windows virtual machines running on KVM
 app-emulation/virtio-win-prewhql 0.1.161: VirtIO drivers for Windows virtual machines running on KVM based on upstream content. They may contain experimental drivers.
 app-emulation/winfsp 1.11 1.12: WinFsp · Windows File System Proxy - FUSE for Windows
 app-shells/agnoster-gentoo-zsh-theme 20200419: A Gentoo flavored version of the Agnoster ZSH Theme.
@@ -23,7 +23,7 @@ dev-db/phpredisadmin 1.17.3 1.18.0: Simple web interface to manage Redis databas
 dev-go/go-bindata 1.0.0: A small utility which generates Go code from any file
 dev-php/pecl-jsmin 3.0.0: PHP extension to compress JS files
 dev-php/pecl-snappy 0.2.1: PHP wrapper for snappy
-dev-php/predis 2.0.2 2.0.3: A flexible and feature-complete Redis client for PHP.
+dev-php/predis 2.0.3 2.1.1: A flexible and feature-complete Redis client for PHP.
 dev-python/dreg-client 1.2.0: API client for Docker Registries
 dev-python/gitea-api 1.17.3: Gitea API wrapper for Python
 dev-python/passpy 1.0.2: passpy -- ZX2C4's pass compatible library and cli
@@ -39,5 +39,5 @@ www-apps/grafana 9.3.1 9.3.2: The open-source platform for monitoring and observ
 www-apps/libreddit 0.25.3 0.26.0 0.27.0: Alternative private front-end to Reddit
 www-apps/linkace 1.10.5 1.11.0: LinkAce is a bookmark archive.
 www-apps/lychee 4.6.2 4.7.0: A great looking and easy-to-use photo-management-system.
-www-apps/matomo 4.12.3 4.13.0: Matomo is the leading Free/Libre open analytics platform.
+www-apps/matomo 4.13.0 4.13.1: Matomo is the leading Free/Libre open analytics platform.
 www-apps/mytinytodo 1.7.3: Simple way to manage your todo list in AJAX style.

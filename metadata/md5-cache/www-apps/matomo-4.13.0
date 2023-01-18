@@ -11,4 +11,4 @@ RDEPEND=>=dev-lang/php-7.4[gd,pdo] virtual/mysql virtual/httpd-php app-admin/web
 SLOT=4.13.0
 SRC_URI=https://builds.matomo.org/matomo-4.13.0.tar.gz
 _eclasses_=webapp	67df5bab481d0b9428f9ab7b3de690e4
-_md5_=fb000d4e885f7e99b74d96822cc94063
+_md5_=ee4aab4e6a93e21c05288a549d3e0846
