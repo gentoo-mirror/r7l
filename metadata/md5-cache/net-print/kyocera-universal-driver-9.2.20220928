@@ -1,0 +1,11 @@
+BDEPEND=app-arch/unzip
+DEFINED_PHASES=install prepare
+DESCRIPTION=The Universal Driver package and toolset for printing on Kyocera-based printers.
+EAPI=8
+HOMEPAGE=https://kyoceradocumentsolutions.com
+KEYWORDS=~amd64
+LICENSE=GPL-2 kyocera-mita-ppds
+RDEPEND=net-print/cups net-print/cups-filters <dev-python/pypdf-4.0 dev-python/reportlab
+SLOT=0
+SRC_URI=https://www.kyoceradocumentsolutions.co.uk/content/download-center/gb/drivers/all/Linux_Universal_Driver_zip.download.zip -> kyocera-universal-driver-9.2.20220928.zip
+_md5_=423d3e8a9ca8f51cf243be5295b32498
