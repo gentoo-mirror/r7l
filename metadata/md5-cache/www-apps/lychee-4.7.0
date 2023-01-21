@@ -1,4 +1,4 @@
-DEFINED_PHASES=install postinst prepare prerm setup
+DEFINED_PHASES=install postinst prepare prerm pretend setup
 DEPEND=dev-php/composer app-admin/webapp-config
 DESCRIPTION=A great looking and easy-to-use photo-management-system.
 EAPI=8
@@ -7,9 +7,9 @@ INHERIT=webapp
 IUSE=+mysql sqlite vhosts
 KEYWORDS=~amd64
 LICENSE=MIT
-RDEPEND=>=dev-lang/php-8.1[cli,bcmath,exif,gd,curl,intl,phar,fileinfo,pdo] mysql? ( virtual/mysql ) sqlite? ( dev-db/sqlite ) virtual/httpd-php app-admin/webapp-config
+RDEPEND=dev-php/composer >=dev-lang/php-8.1[cli,bcmath,exif,gd,curl,intl,phar,fileinfo,pdo] mysql? ( virtual/mysql ) sqlite? ( dev-db/sqlite ) virtual/httpd-php app-admin/webapp-config
 REQUIRED_USE=|| ( mysql sqlite )
 SLOT=4.7.0
-SRC_URI=https://github.com/LycheeOrg/Lychee/archive/v4.7.0.tar.gz -> lychee-4.7.0.tar.gz
+SRC_URI=https://github.com/lycheeorg/lychee/archive/v4.7.0.tar.gz -> lychee-4.7.0.tar.gz
 _eclasses_=webapp	67df5bab481d0b9428f9ab7b3de690e4
-_md5_=65e79a821afc0346c78d013211edd24f
+_md5_=cbe40f078ead22a3ab4a5828d9c447ea
