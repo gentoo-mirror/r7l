@@ -11,4 +11,4 @@ RDEPEND=dev-db/redis dev-lang/php dev-php/predis virtual/httpd-php app-admin/web
 SLOT=1.18.0
 SRC_URI=https://github.com/erikdubbelboer/phpRedisAdmin/archive/refs/tags/v1.18.0.tar.gz -> phpredisadmin-1.18.0.tar.gz
 _eclasses_=webapp	67df5bab481d0b9428f9ab7b3de690e4
-_md5_=439b3f69431856f35f3fc1854687b519
+_md5_=4b84be17fee89de68efb0dc087f2215e

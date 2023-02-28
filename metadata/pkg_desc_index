@@ -19,7 +19,7 @@ app-emulation/winfsp 1.12.22339: WinFsp · Windows File System Proxy - FUSE for 
 app-shells/agnoster-gentoo-zsh-theme 20200419: A Gentoo flavored version of the Agnoster ZSH Theme.
 app-shells/oh-my-zsh 20220727: A ready-to-use zsh configuration with plugins.
 app-text/obsidian 1.1.8 1.1.9: A second brain, for you, forever.
-dev-db/phpredisadmin 1.17.3 1.18.0: Simple web interface to manage Redis databases.
+dev-db/phpredisadmin 1.18.0 1.19.1: Simple web interface to manage Redis databases.
 dev-go/go-bindata 1.0.0: A small utility which generates Go code from any file
 dev-php/pecl-jsmin 3.0.0: PHP extension to compress JS files
 dev-php/pecl-snappy 0.2.1: PHP wrapper for snappy
