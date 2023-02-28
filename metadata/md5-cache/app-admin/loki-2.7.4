@@ -1,9 +1,9 @@
-BDEPEND=<dev-lang/go-1.19 >=dev-lang/go-1.18 app-arch/unzip virtual/pkgconfig
+BDEPEND=>=dev-lang/go-1.18 app-arch/unzip virtual/pkgconfig
 DEFINED_PHASES=compile install unpack
 DEPEND=acct-group/grafana acct-user/loki fluent-bit? ( app-admin/fluent-bit )
 DESCRIPTION=Like Prometheus, but for logs.
 EAPI=8
-HOMEPAGE=https://grafana.com/loki/
+HOMEPAGE=https://grafana.com/loki
 INHERIT=go-module systemd
 IUSE=fluent-bit promtail +server tools systemd
 KEYWORDS=~amd64
@@ -11,6 +11,6 @@ LICENSE=Apache-2.0
 RDEPEND=acct-group/grafana acct-user/loki fluent-bit? ( app-admin/fluent-bit )
 RESTRICT=mirror strip strip
 SLOT=0
-SRC_URI=https://github.com/grafana/loki/archive/v2.6.1.tar.gz -> loki-2.6.1.tar.gz
+SRC_URI=https://github.com/grafana/loki/archive/v2.7.4.tar.gz -> loki-2.7.4.tar.gz
 _eclasses_=multiprocessing	b4e253ab22cef7b1085e9b67c7a3b730	go-module	f2c9bcab49079a176b3ae061c94bb344	toolchain-funcs	6001248ef162a5fa2a21ce132a212f6b	multilib	5ca4e49abed8e3a2f7b56920eadee157	systemd	5f4bb0758df2e483babf68cd517078ca
-_md5_=1816437efd19d4ac714caaec0dbfdbcf
+_md5_=3de804d1cbce95f2b2fcab024b6e6325
