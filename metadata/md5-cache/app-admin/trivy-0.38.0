@@ -1,0 +1,15 @@
+BDEPEND=>=dev-lang/go-1.18 app-arch/unzip
+DEFINED_PHASES=compile install pretend unpack
+DEPEND=>=dev-lang/go-1.19
+DESCRIPTION=Scanner for vulnerabilities in container images, file systems, and Git repositories, as well as for configuration issues and hard-coded secrets
+EAPI=8
+HOMEPAGE=https://github.com/aquasecurity/trivy
+INHERIT=go-module
+KEYWORDS=~amd64
+LICENSE=Apache-2.0
+RDEPEND=>=dev-lang/go-1.19
+RESTRICT=strip
+SLOT=0
+SRC_URI=https://github.com/aquasecurity/trivy/archive/v0.38.0.tar.gz -> trivy-0.38.0.tar.gz
+_eclasses_=multiprocessing	b4e253ab22cef7b1085e9b67c7a3b730	go-module	f2c9bcab49079a176b3ae061c94bb344
+_md5_=734095af7a9d3261e653e87f49d651a0
