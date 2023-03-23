@@ -7,5 +7,5 @@ KEYWORDS=~amd64 ~arm ~arm64 ~x86
 LICENSE=MIT
 RDEPEND=dev-lang/php:*
 SLOT=0
-SRC_URI=https://github.com/drush-ops/drush/releases/download/8.4.11/drush.phar -> drush-8.4.11.phar
+SRC_URI=https://github.com/drush-ops/drush/releases/download/8.4.12/drush.phar -> drush-8.4.12.phar
 _md5_=e2cc9a83ba9134ddc1f8f504d4da1f11
