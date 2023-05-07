@@ -38,9 +38,9 @@ net-proxy/traefik-certs-dumper 2.8.1: Dump ACME data from Traefik to certificate
 net-proxy/traefik-migration-tool 0.13.4: A migration tool from Traefik v1 to Traefik v2.
 www-apps/baikal 0.9.2 0.9.3: Lightweight CalDAV+CardDAV server
 www-apps/docker-registry-ui 2.3.3 2.4.1: Docker Registry User Interface.
-www-apps/grafana 9.4.3 9.4.7: The open-source platform for monitoring and observability
+www-apps/grafana 9.4.7 9.5.1: The open-source platform for monitoring and observability
 www-apps/libreddit 0.30.0 0.30.1: Alternative private front-end to Reddit
 www-apps/linkace 1.11.1 1.11.4 1.12.0: LinkAce is a bookmark archive.
-www-apps/lychee 4.7.2 4.7.3: A great looking and easy-to-use photo-management-system.
+www-apps/lychee 4.7.3 4.8.0: A great looking and easy-to-use photo-management-system.
 www-apps/matomo 4.13.3: Matomo is the leading Free/Libre open analytics platform.
 www-apps/mytinytodo 1.7.3: Simple way to manage your todo list in AJAX style.
