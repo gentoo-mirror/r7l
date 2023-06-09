@@ -29,7 +29,7 @@ dev-php/predis 2.1.1 2.1.2: A flexible and feature-complete Redis client for PHP
 dev-python/dreg-client 1.2.0: API client for Docker Registries
 dev-python/gitea-api 1.17.3 1.18.0: Gitea API wrapper for Python
 dev-python/passpy 1.0.2: passpy -- ZX2C4's pass compatible library and cli
-mail-mta/mailpit 1.6.2 1.6.8: An email and SMTP testing tool with API for developers.
+mail-mta/mailpit 1.6.8 1.6.17: An email and SMTP testing tool with API for developers.
 net-mail/mailhog 1.0.1 9999: MailHog is an email testing tool for developers
 net-misc/freetube-bin 0.17.1 0.18.0: An Open Source YouTube app for privacy
 net-print/kyocera-universal-driver 9.2.20220928: The Universal Driver package and toolset for printing on Kyocera-based printers.
@@ -40,7 +40,7 @@ www-apps/baikal 0.9.2 0.9.3: Lightweight CalDAV+CardDAV server
 www-apps/docker-registry-ui 2.4.1 2.5.0: Docker Registry User Interface.
 www-apps/grafana 9.5.1 9.5.3: The open-source platform for monitoring and observability
 www-apps/libreddit 0.30.0 0.30.1: Alternative private front-end to Reddit
-www-apps/linkace 1.11.1 1.11.4 1.12.0: LinkAce is a bookmark archive.
+www-apps/linkace 1.12.0 1.12.1: LinkAce is a bookmark archive.
 www-apps/lychee 4.8.0 4.9.2: A great looking and easy-to-use photo-management-system.
 www-apps/matomo 4.13.3 4.14.2: Matomo is the leading Free/Libre open analytics platform.
 www-apps/mytinytodo 1.7.3: Simple way to manage your todo list in AJAX style.
