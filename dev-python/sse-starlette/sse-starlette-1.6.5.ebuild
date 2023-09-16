@@ -3,16 +3,21 @@
 
 EAPI=8
 
-DISTUTILS_USE_PEP517=setuptools
 PYTHON_COMPAT=( python3_{10..12} )
+DISTUTILS_USE_PEP517=setuptools
+
 PYPI_NO_NORMALIZE=1
 PYPI_PN="${PN}"
 
 inherit distutils-r1 pypi
 
-DESCRIPTION="API client for Docker Registries"
-HOMEPAGE="https://github.com/djmattyg007/dreg-client"
+DESCRIPTION="Server Sent Events for Starlette"
+HOMEPAGE="https://github.com/sysid/sse-starlette"
 
-LICENSE="Apache-2.0"
+LICENSE="BSD"
 SLOT="0"
-KEYWORDS="~amd64 ~arm ~arm64 ~x86"
+KEYWORDS="~amd64 ~x86"
+
+RDEPEND="
+	dev-python/starlette[${PYTHON_USEDEP}]
+"

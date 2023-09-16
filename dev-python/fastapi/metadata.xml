@@ -3,7 +3,7 @@
   SYSTEM 'http://www.gentoo.org/dtd/metadata.dtd'>
 <pkgmetadata>
   <upstream>
-    <remote-id type="github">lovvskillz/python-discord-webhook</remote-id>
-    <remote-id type="pypi">discord-webhook</remote-id>
+    <remote-id type="github">tiangolo/fastapi</remote-id>
+    <remote-id type="pypi">fastapi</remote-id>
   </upstream>
 </pkgmetadata>
