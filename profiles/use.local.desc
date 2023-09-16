@@ -9,3 +9,5 @@ app-admin/loki:tools - Build the loki tools logcli and loki-canary
 app-misc/llama-cpp:blas - Install OpenBLAS support
 app-misc/llama-cpp:cublas - Install support for GPU BLAS acceleration using the Nvidia CUDA cores
 app-misc/llama-cpp:tools - Install tools for benchmarks or models converting
+dev-python/llama-cpp:examples - Install examples
+dev-python/llama-cpp:server - Install dependencies for fastapi based drop-in replacement for the OpenAI API
