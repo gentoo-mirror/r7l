@@ -8,6 +8,7 @@ app-admin/loki:server - Build the loki server
 app-admin/loki:tools - Build the loki tools logcli and loki-canary
 app-misc/llama-cpp:blas - Install OpenBLAS support
 app-misc/llama-cpp:cublas - Install support for GPU BLAS acceleration using the Nvidia CUDA cores
+app-misc/llama-cpp:lto - Enable link time optimization
 app-misc/llama-cpp:tests - Install tests
 app-misc/llama-cpp:tools - Install tools for benchmarks or models converting
 dev-python/llama-cpp:examples - Install examples
