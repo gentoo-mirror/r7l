@@ -38,7 +38,7 @@ mail-mta/mailpit 1.9.4 1.9.6: An email and SMTP testing tool with API for develo
 net-mail/mailhog 1.0.1 9999: MailHog is an email testing tool for developers
 net-misc/freetube-bin 0.18.0 0.19.0 0.19.1: An Open Source YouTube app for privacy
 net-print/kyocera-universal-driver 9.2.20220928 9.3.20230720: The Universal Driver package and toolset for printing on Kyocera-based printers.
-net-proxy/traefik 2.10.3 2.10.4: A modern HTTP reverse proxy and load balancer made to deploy microservices
+net-proxy/traefik 2.10.4 2.10.5: A modern HTTP reverse proxy and load balancer made to deploy microservices
 net-proxy/traefik-certs-dumper 2.8.1: Dump ACME data from Traefik to certificates
 net-proxy/traefik-migration-tool 0.13.4: A migration tool from Traefik v1 to Traefik v2.
 www-apps/docker-registry-ui 2.5.2 2.5.4: Docker Registry User Interface.
