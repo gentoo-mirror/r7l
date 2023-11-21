@@ -1,0 +1,10 @@
+DEFINED_PHASES=install prepare unpack
+DEPEND=app-cdr/cdrtools
+DESCRIPTION=WinFsp · Windows File System Proxy - FUSE for Windows
+EAPI=8
+HOMEPAGE=https://github.com/winfsp/winfsp
+KEYWORDS=~amd64
+LICENSE=GPL-2
+SLOT=0
+SRC_URI=https://github.com/winfsp/winfsp/releases/download/v2.0/winfsp-2.0.23075.msi
+_md5_=13fe385627b487bfea981d78094e3525
