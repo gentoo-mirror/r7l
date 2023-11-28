@@ -42,5 +42,5 @@ net-proxy/traefik 2.10.4 2.10.5: A modern HTTP reverse proxy and load balancer m
 net-proxy/traefik-certs-dumper 2.8.1: Dump ACME data from Traefik to certificates
 net-proxy/traefik-migration-tool 0.13.4: A migration tool from Traefik v1 to Traefik v2.
 www-apps/docker-registry-ui 2.5.4 2.5.6: Docker Registry User Interface.
-www-apps/grafana 10.1.5 10.2.0: The open-source platform for monitoring and observability
+www-apps/grafana 10.2.0 10.2.2: The open-source platform for monitoring and observability
 www-apps/libreddit 0.30.0 0.30.1: Alternative private front-end to Reddit
