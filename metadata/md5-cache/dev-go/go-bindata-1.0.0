@@ -10,4 +10,4 @@ RESTRICT=strip
 SLOT=0/1.0.0
 SRC_URI=https://github.com/go-bindata/go-bindata/archive/v1.0.0.tar.gz -> go-bindata-1.0.0.tar.gz
 _eclasses_=golang-base	9f0e420ab37bc55a318d74bab3aae891	golang-build	b689e250dc38d720b04019511cd5806f	toolchain-funcs	eed10cf5e5a06916e654d31f5a1925cc	multilib	c19072c3cd7ac5cb21de013f7e9832e0	go-env	96e1747610bbb2f5c5d3fb16f0f3a83a	golang-vcs-snapshot	85de4c0ee156326f54c6d16f8ab529d1
-_md5_=db01f87150384bd88e43597afaa8ebb6
+_md5_=d2ef67a1c3fc0962307af9ebcc26f806
