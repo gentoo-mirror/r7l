@@ -11,7 +11,7 @@ acct-user/mailpit 0: User for mail-mta/mailpit
 acct-user/traefik 0: User for net-proxy/traefik
 app-admin/cert-chain-resolver 1.0.4: SSL certificate chain resolver
 app-admin/drush 8.4.11 8.4.12: The command line interface for Drupal
-app-admin/loki 2.9.1 2.9.2: Like Prometheus, but for logs.
+app-admin/loki 2.9.2 2.9.3: Like Prometheus, but for logs.
 app-admin/sshguard 2.4.2: protects hosts from brute force attacks against ssh
 app-admin/trivy 0.47.0 0.48.2: Scanner for vulnerabilities in container images, file systems, and Git repositories, as well as for configuration issues and hard-coded secrets
 app-emulation/looking-glass 1_beta5 1_beta6_rc1 1_beta6: A low latency KVM FrameRelay implementation for guests with VGA PCI Passthrough
