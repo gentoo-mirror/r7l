@@ -21,7 +21,7 @@ app-emulation/winfsp 1.12.22339 2.0.23075: WinFsp · Windows File System Proxy -
 app-misc/llama-cpp 20230929 20231006 20231128: Port of Facebook's LLaMA model in C/C++
 app-shells/agnoster-gentoo-zsh-theme 20200419: A Gentoo flavored version of the Agnoster ZSH Theme.
 app-shells/oh-my-zsh 20220727: A ready-to-use zsh configuration with plugins.
-app-text/obsidian 1.4.14 1.4.16: A second brain, for you, forever.
+app-text/obsidian 1.4.16 1.5.3: A second brain, for you, forever.
 dev-db/phpredisadmin 1.19.1 1.19.2: Simple web interface to manage Redis databases.
 dev-go/go-bindata 1.0.0: A small utility which generates Go code from any file
 dev-python/ansible-runner 2.3.3 2.3.4: A tool and python library that helps when interfacing with Ansible
