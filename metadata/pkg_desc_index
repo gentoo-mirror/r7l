@@ -32,7 +32,7 @@ dev-python/gitea-api 1.18.0: Gitea API wrapper for Python
 dev-python/llama-cpp 0.2.32: Python bindings for llama.cpp
 dev-python/passpy 1.0.2: passpy -- ZX2C4's pass compatible library and cli
 dev-python/pydantic-settings 2.0.3 2.1.0: Settings management using pydantic.
-dev-python/sse-starlette 1.6.5 1.8.2: Server Sent Events for Starlette
+dev-python/sse-starlette 1.8.2 2.0.0: Server Sent Events for Starlette
 dev-python/starlette-context 0.3.6: Middleware for Starlette that allows you to store and access the context data of a request.
 mail-mta/mailpit 1.13.0 1.13.3: An email and SMTP testing tool with API for developers.
 net-mail/mailhog 1.0.1 9999: MailHog is an email testing tool for developers
