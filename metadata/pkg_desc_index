@@ -44,5 +44,5 @@ net-proxy/traefik-certs-dumper 2.8.3: Dump ACME data from Traefik to certificate
 net-proxy/traefik-migration-tool 0.13.4: A migration tool from Traefik v1 to Traefik v2.
 sys-apps/pnpm 8.15.1: Fast, disk space efficient package manager, alternative to npm and yarn
 www-apps/docker-registry-ui 2.5.6 2.5.7: Docker Registry User Interface.
-www-apps/grafana 10.2.3 10.3.1: The open-source platform for monitoring and observability
+www-apps/grafana 10.3.1 10.3.3: The open-source platform for monitoring and observability
 www-apps/libreddit 0.30.0 0.30.1: Alternative private front-end to Reddit
