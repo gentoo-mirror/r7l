@@ -21,7 +21,7 @@ app-emulation/winfsp 1.12.22339 2.0.23075: WinFsp · Windows File System Proxy -
 app-misc/llama-cpp 20240124: Port of Facebook's LLaMA model in C/C++
 app-shells/agnoster-gentoo-zsh-theme 20200419: A Gentoo flavored version of the Agnoster ZSH Theme.
 app-shells/oh-my-zsh 20240124: A ready-to-use zsh configuration with plugins.
-app-text/obsidian 1.4.16 1.5.3: A second brain, for you, forever.
+app-text/obsidian 1.4.16 1.5.3 1.5.11: A second brain, for you, forever.
 dev-db/phpredisadmin 1.19.1 1.19.2: Simple web interface to manage Redis databases.
 dev-go/go-bindata 1.0.0: A small utility which generates Go code from any file
 dev-python/ansible-runner 2.3.5 2.3.6: A tool and python library that helps when interfacing with Ansible
@@ -31,7 +31,7 @@ dev-python/fastapi 0.109.0 0.109.2: High performance framework, easy to learn, f
 dev-python/gitea-api 1.18.0: Gitea API wrapper for Python
 dev-python/llama-cpp 0.2.32: Python bindings for llama.cpp
 dev-python/passpy 1.0.2: passpy -- ZX2C4's pass compatible library and cli
-dev-python/pydantic-settings 2.0.3 2.1.0: Settings management using pydantic.
+dev-python/pydantic-settings 2.1.0 2.2.1: Settings management using pydantic.
 dev-python/sse-starlette 1.8.2 2.0.0: Server Sent Events for Starlette
 dev-python/starlette-context 0.3.6: Middleware for Starlette that allows you to store and access the context data of a request.
 mail-mta/mailpit 1.13.3 1.15.0: An email and SMTP testing tool with API for developers.
