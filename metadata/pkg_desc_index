@@ -33,7 +33,7 @@ dev-python/sse-starlette 1.8.2 2.0.0: Server Sent Events for Starlette
 dev-python/starlette-context 0.3.6: Middleware for Starlette that allows you to store and access the context data of a request.
 mail-mta/mailpit 1.18.1 1.18.4: An email and SMTP testing tool with API for developers.
 net-mail/mailhog 1.0.1 9999: MailHog is an email testing tool for developers
-net-misc/freetube-bin 0.19.1 0.19.2 0.20.0: An Open Source YouTube app for privacy
+net-misc/freetube-bin 0.20.0 0.21.0: An Open Source YouTube app for privacy
 net-misc/geoipupdate 6.1.0 7.0.1: Performs automatic updates of GeoIP2 and GeoIP Legacy binary databases
 net-print/kyocera-universal-driver 9.2.20220928 9.3.20230720: The Universal Driver package and toolset for printing on Kyocera-based printers.
 net-proxy/traefik 2.11.2 2.11.3: A modern HTTP reverse proxy and load balancer made to deploy microservices
