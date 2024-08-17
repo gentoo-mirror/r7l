@@ -30,7 +30,7 @@ dev-python/passpy 1.0.2: passpy -- ZX2C4's pass compatible library and cli
 dev-python/pypdf 3.17.4: Python library to work with PDF files
 mail-mta/mailpit 1.18.4 1.19.0: An email and SMTP testing tool with API for developers.
 net-mail/mailhog 1.0.1 9999: MailHog is an email testing tool for developers
-net-misc/freetube-bin 0.20.0 0.21.0: An Open Source YouTube app for privacy
+net-misc/freetube-bin 0.20.0 0.21.0 0.21.3: An Open Source YouTube app for privacy
 net-misc/geoipupdate 6.1.0 7.0.1: Performs automatic updates of GeoIP2 and GeoIP Legacy binary databases
 net-print/kyocera-universal-driver 9.2.20220928 9.3.20230720: The Universal Driver package and toolset for printing on Kyocera-based printers.
 net-proxy/traefik 2.11.5 2.11.6: A modern HTTP reverse proxy and load balancer made to deploy microservices
