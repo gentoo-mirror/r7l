@@ -11,7 +11,7 @@ acct-user/redlib 0: User for www-apps/redlib
 acct-user/traefik 0: User for net-proxy/traefik
 app-admin/cert-chain-resolver 1.0.4: SSL certificate chain resolver
 app-admin/drush 8.4.11 8.4.12: The command line interface for Drupal
-app-admin/loki 2.9.6 2.9.7: Like Prometheus, but for logs.
+app-admin/loki 2.9.7 2.9.10: Like Prometheus, but for logs.
 app-admin/sshguard 2.4.2: protects hosts from brute force attacks against ssh
 app-emulation/looking-glass 1_beta5 1_beta6_rc1 1_beta6: A low latency KVM FrameRelay implementation for guests with VGA PCI Passthrough
 app-emulation/virtio-win 0.1.225.2 0.1.229.1: VirtIO drivers for Windows virtual machines running on KVM
