@@ -33,7 +33,7 @@ net-mail/mailhog 1.0.1 9999: MailHog is an email testing tool for developers
 net-misc/freetube-bin 0.20.0 0.21.0 0.21.3: An Open Source YouTube app for privacy
 net-misc/geoipupdate 6.1.0 7.0.1: Performs automatic updates of GeoIP2 and GeoIP Legacy binary databases
 net-print/kyocera-universal-driver 9.2.20220928 9.3.20230720: The Universal Driver package and toolset for printing on Kyocera-based printers.
-net-proxy/traefik 2.11.5 2.11.6: A modern HTTP reverse proxy and load balancer made to deploy microservices
+net-proxy/traefik 2.11.6 2.11.8: A modern HTTP reverse proxy and load balancer made to deploy microservices
 net-proxy/traefik-certs-dumper 2.8.3: Dump ACME data from Traefik to certificates
 net-proxy/traefik-migration-tool 0.13.4: A migration tool from Traefik v1 to Traefik v2.
 sys-apps/pnpm 9.0.2 9.1.1: Fast, disk space efficient package manager, alternative to npm and yarn
