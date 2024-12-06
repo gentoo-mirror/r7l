@@ -19,7 +19,7 @@ app-emulation/virtio-win-prewhql 0.1.161: VirtIO drivers for Windows virtual mac
 app-emulation/winfsp 1.12.22339 2.0.23075: WinFsp · Windows File System Proxy - FUSE for Windows
 app-shells/agnoster-gentoo-zsh-theme 20200419: A Gentoo flavored version of the Agnoster ZSH Theme.
 app-shells/oh-my-zsh 20240124: A ready-to-use zsh configuration with plugins.
-app-text/obsidian 1.6.5 1.6.7 1.7.4: A second brain, for you, forever.
+app-text/obsidian 1.7.4 1.7.7: A second brain, for you, forever.
 dev-db/phpredisadmin 1.21.0 1.21.1: Simple web interface to manage Redis databases.
 dev-go/go-bindata 1.0.0: A small utility which generates Go code from any file
 dev-python/ansible-runner 2.3.6 2.4.0: A tool and python library that helps when interfacing with Ansible
