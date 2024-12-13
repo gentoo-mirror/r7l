@@ -7,5 +7,5 @@ KEYWORDS=~amd64
 LICENSE=GPL-2 kyocera-mita-ppds
 RDEPEND=net-print/cups net-print/cups-filters <dev-python/pypdf-4.0 dev-python/reportlab
 SLOT=0
-SRC_URI=https://www.kyoceradocumentsolutions.co.uk/content/download-center/gb/drivers/all/Linux_Universal_Driver_zip.download.zip -> kyocera-universal-driver-9.2.20220928.zip
-_md5_=d4584f011276b4301ca9c6e753f3d6da
+SRC_URI=https://www.kyoceradocumentsolutions.co.uk/content/download-center/gb/drivers/all/Linux_Universal_Driver_zip.download.zip -> kyocera-universal-driver-9.4.20240521.zip
+_md5_=615c2132be3e16639701cae4b6995fa9

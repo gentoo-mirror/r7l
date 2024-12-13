@@ -32,7 +32,7 @@ dev-python/pypdf 3.17.4: Python library to work with PDF files
 mail-mta/mailpit 1.21.0 1.21.6: An email and SMTP testing tool with API for developers.
 net-misc/freetube-bin 0.22.0 0.22.1: An Open Source YouTube app for privacy
 net-misc/geoipupdate 7.0.1 7.1.0: Performs automatic updates of GeoIP2 and GeoIP Legacy binary databases
-net-print/kyocera-universal-driver 9.2.20220928 9.3.20230720: The Universal Driver package and toolset for printing on Kyocera-based printers.
+net-print/kyocera-universal-driver 9.4.20240521: The Universal Driver package and toolset for printing on Kyocera-based printers.
 net-proxy/traefik 2.11.13 2.11.14: A modern HTTP reverse proxy and load balancer made to deploy microservices
 net-proxy/traefik-certs-dumper 2.8.3 2.9.3: Dump ACME data from Traefik to certificates
 net-proxy/traefik-migration-tool 0.13.4: A migration tool from Traefik v1 to Traefik v2.
