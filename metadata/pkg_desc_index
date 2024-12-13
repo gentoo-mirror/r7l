@@ -18,7 +18,7 @@ app-emulation/virtio-win 0.1.266.1: VirtIO drivers for Windows virtual machines 
 app-emulation/virtio-win-prewhql 0.1.161: VirtIO drivers for Windows virtual machines running on KVM based on upstream content. They may contain experimental drivers.
 app-emulation/winfsp 1.12.22339 2.0.23075: WinFsp · Windows File System Proxy - FUSE for Windows
 app-shells/agnoster-gentoo-zsh-theme 20200419: A Gentoo flavored version of the Agnoster ZSH Theme.
-app-shells/oh-my-zsh 20240124: A ready-to-use zsh configuration with plugins.
+app-shells/oh-my-zsh 20241128: A ready-to-use zsh configuration with plugins.
 app-text/obsidian 1.7.4 1.7.7: A second brain, for you, forever.
 dev-db/phpredisadmin 1.21.0 1.21.1: Simple web interface to manage Redis databases.
 dev-go/go-bindata 1.0.0: A small utility which generates Go code from any file
@@ -34,7 +34,7 @@ net-mail/mailhog 1.0.1 9999: MailHog is an email testing tool for developers
 net-misc/freetube-bin 0.20.0 0.21.0 0.21.3 0.22.0: An Open Source YouTube app for privacy
 net-misc/geoipupdate 6.1.0 7.0.1: Performs automatic updates of GeoIP2 and GeoIP Legacy binary databases
 net-print/kyocera-universal-driver 9.2.20220928 9.3.20230720: The Universal Driver package and toolset for printing on Kyocera-based printers.
-net-proxy/traefik 2.11.12 2.11.13: A modern HTTP reverse proxy and load balancer made to deploy microservices
+net-proxy/traefik 2.11.13 2.11.14: A modern HTTP reverse proxy and load balancer made to deploy microservices
 net-proxy/traefik-certs-dumper 2.8.3: Dump ACME data from Traefik to certificates
 net-proxy/traefik-migration-tool 0.13.4: A migration tool from Traefik v1 to Traefik v2.
 sys-apps/pnpm 9.0.2 9.1.1: Fast, disk space efficient package manager, alternative to npm and yarn
