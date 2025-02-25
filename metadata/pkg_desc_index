@@ -10,7 +10,7 @@ acct-user/mailpit 0: User for mail-mta/mailpit
 acct-user/redlib 0: User for www-apps/redlib
 acct-user/traefik 0: User for net-proxy/traefik
 app-admin/cert-chain-resolver 1.0.4: SSL certificate chain resolver
-app-admin/drush 8.4.11 8.4.12: The command line interface for Drupal
+app-admin/drush 8.4.12 8.5.0: The command line interface for Drupal
 app-admin/loki 2.9.7 2.9.10: Like Prometheus, but for logs.
 app-admin/sshguard 2.4.2: protects hosts from brute force attacks against ssh
 app-emulation/looking-glass 1_beta5 1_beta6_rc1 1_beta6: A low latency KVM FrameRelay implementation for guests with VGA PCI Passthrough
@@ -29,7 +29,7 @@ dev-python/gitea-api 1.18.0: Gitea API wrapper for Python
 dev-python/nc-dns-api 0.1.6: API wrapper for the netcup DNS API
 dev-python/passpy 1.0.2-r1: passpy -- ZX2C4's pass compatible library and cli
 dev-python/pypdf 3.17.4: Python library to work with PDF files
-mail-mta/mailpit 1.21.6 1.22.0: An email and SMTP testing tool with API for developers.
+mail-mta/mailpit 1.22.0 1.22.3: An email and SMTP testing tool with API for developers.
 net-misc/freetube-bin 0.23.1 0.23.2: An Open Source YouTube app for privacy
 net-misc/geoipupdate 7.0.1 7.1.0: Performs automatic updates of GeoIP2 and GeoIP Legacy binary databases
 net-print/kyocera-universal-driver 9.4.20240521: The Universal Driver package and toolset for printing on Kyocera-based printers.

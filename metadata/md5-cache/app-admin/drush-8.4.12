@@ -8,4 +8,4 @@ LICENSE=MIT
 RDEPEND=dev-lang/php:*
 SLOT=0
 SRC_URI=https://github.com/drush-ops/drush/releases/download/8.4.12/drush.phar -> drush-8.4.12.phar
-_md5_=e2cc9a83ba9134ddc1f8f504d4da1f11
+_md5_=4b5e9d131ffba05843c0c7e759228f71
