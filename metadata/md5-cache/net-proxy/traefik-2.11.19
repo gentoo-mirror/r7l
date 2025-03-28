@@ -12,5 +12,5 @@ RDEPEND=acct-group/traefik acct-user/traefik =dev-go/go-bindata-1.0.0
 RESTRICT=mirror
 SLOT=0
 SRC_URI=https://github.com/traefik/traefik/releases/download/v2.11.19/traefik-v2.11.19.src.tar.gz -> traefik-2.11.19.tar.gz
-_eclasses_=golang-base	33e0f9ff6c6f053a3df2d38992afeb58	toolchain-funcs	6afdb6107430c1832ca7e16aacbf8fa1	multilib	b2a329026f2e404e9e371097dda47f96	flag-o-matic	357f1a896fbedcd06e5ce55419c49eb9	go-env	0e2babf96e7d0b045fc07ad199eb2399	golang-vcs-snapshot	dacb23628c2ff18d349878f599c078a5	systemd	54bd206bb5c4efac6ae28b6b006713b0
+_eclasses_=golang-base	33e0f9ff6c6f053a3df2d38992afeb58	toolchain-funcs	6afdb6107430c1832ca7e16aacbf8fa1	multilib	b2a329026f2e404e9e371097dda47f96	flag-o-matic	16d3941ed2dc39f4819368ae51bc0b72	go-env	0e2babf96e7d0b045fc07ad199eb2399	golang-vcs-snapshot	dacb23628c2ff18d349878f599c078a5	systemd	54bd206bb5c4efac6ae28b6b006713b0
 _md5_=0e214b668c2643b2e553a1f11af0113b
