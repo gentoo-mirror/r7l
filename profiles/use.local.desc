@@ -6,5 +6,13 @@ app-admin/loki:fluent-bit - Build the fluent-bit plugin to publish from app-admi
 app-admin/loki:promtail - Build the promtail log gathering agent
 app-admin/loki:server - Build the loki server
 app-admin/loki:tools - Build the loki tools logcli and loki-canary
+app-emulation/looking-glass:X - Build with X support
+app-emulation/looking-glass:gnome - Build with Gnome support
+app-emulation/looking-glass:host - Create ISO file for Windows host application
+app-emulation/looking-glass:obs - Add support for streaming with obs
+app-emulation/looking-glass:opengl - Build with OpenGL support
+app-emulation/looking-glass:pipewire - Build with Pipewire support
+app-emulation/looking-glass:pulseaudio - Build with Pulseaudio support
+app-emulation/looking-glass:wayland - Build with Wayland support
 app-text/obsidian:appindicator - Add support for Appindicator
 app-text/obsidian:wayland - Fix desktop file for Wayland
