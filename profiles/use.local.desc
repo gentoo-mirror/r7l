@@ -14,5 +14,6 @@ app-emulation/looking-glass:opengl - Build with OpenGL support
 app-emulation/looking-glass:pipewire - Build with Pipewire support
 app-emulation/looking-glass:pulseaudio - Build with Pulseaudio support
 app-emulation/looking-glass:wayland - Build with Wayland support
+app-text/obsidian:X - Add desktop file for X
 app-text/obsidian:appindicator - Add support for Appindicator
-app-text/obsidian:wayland - Fix desktop file for Wayland
+app-text/obsidian:wayland - Add desktop file for Wayland
