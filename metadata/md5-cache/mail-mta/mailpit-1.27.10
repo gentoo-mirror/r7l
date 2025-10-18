@@ -9,6 +9,6 @@ KEYWORDS=~amd64 ~arm64
 LICENSE=MIT
 RDEPEND=acct-group/mailpit acct-user/mailpit
 SLOT=0
-SRC_URI=https://github.com/axllent/mailpit/archive/v1.24.0.tar.gz -> mailpit-1.24.0.tar.gz
+SRC_URI=https://github.com/axllent/mailpit/archive/v1.27.10.tar.gz -> mailpit-1.27.10.tar.gz
 _eclasses_=multiprocessing	1e32df7deee68372153dca65f4a7c21f	toolchain-funcs	98d9f464d912ae6b7316fb8a3721f5db	flag-o-matic	a7afe42e95fb46ce9691605acfb24672	go-env	0e2babf96e7d0b045fc07ad199eb2399	go-module	d96f2a2fd6d8fbad6d94516bf238f885
 _md5_=514398cf74112ed652495f8080302b0c
