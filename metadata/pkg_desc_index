@@ -32,7 +32,7 @@ mail-mta/mailpit 1.24.1 1.27.10: An email and SMTP testing tool with API for dev
 net-misc/freetube-bin 0.23.4 0.23.5 0.23.12: An Open Source YouTube app for privacy
 net-misc/geoipupdate 7.1.0 7.1.1: Performs automatic updates of GeoIP2 and GeoIP Legacy binary databases
 net-print/kyocera-universal-driver 9.4.20240521: The Universal Driver package and toolset for printing on Kyocera-based printers.
-net-proxy/traefik 2.11.22 2.11.24 2.11.29 3.3.5 3.3.6: A modern HTTP reverse proxy and load balancer made to deploy microservices
+net-proxy/traefik 2.11.24 2.11.29 3.3.6 3.5.3: A modern HTTP reverse proxy and load balancer made to deploy microservices
 net-proxy/traefik-certs-dumper 2.9.3 2.10.0: Dump ACME data from Traefik to certificates
 net-proxy/traefik-migration-tool 0.13.4: A migration tool from Traefik v1 to Traefik v2.
 sys-apps/pnpm 9.15.0: Fast, disk space efficient package manager, alternative to npm and yarn
